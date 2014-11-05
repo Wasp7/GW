@@ -25,7 +25,7 @@
 }
 
 #headline_generator_container h1 a {
-	color: #333;
+	color: #d03b02;
 	text-decoration: underline;
 	border-bottom: none;
 }
@@ -122,7 +122,7 @@ and (max-width: 460px) {
 	#generated_headline {
 		height: 17em;
 	}
-	#headline_generator_container {
+#headline_generator_container {
 	margin: 0;
-	}
+}
 }
