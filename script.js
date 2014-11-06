@@ -136,7 +136,7 @@
 
         Tabletop.init({ 
             key: "0AswaDV9q95oZdHpOX2s2MmpsNXR1RXRqNDEtS0FiV1E",
-            proxy : 'https://s3.amazonaws.com/mj-tabletop-proxy',
+//            proxy : 'https://s3.amazonaws.com/mj-tabletop-proxy',
             wanted: ['fake', 'real'],
             callback: function(data) {
                 random_data_store = data.fake.elements;
